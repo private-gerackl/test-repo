@@ -2,4 +2,4 @@ print('Hello world')
 
 print('I exist')
 
-print('cowsay')
+print('cowsay: "I\'m cow"')
